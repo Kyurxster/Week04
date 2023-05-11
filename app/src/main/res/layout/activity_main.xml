@@ -45,6 +45,13 @@
                     android:layout_weight="1"
                     android:text="@string/display_time" />
 
+                <Button
+                    android:id="@+id/buttonReset"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/reset" />
+
             </LinearLayout>
 
             <TextView
@@ -52,7 +59,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="TextView" />
+                android:text="@string/display" />
 
         </LinearLayout>
     </ScrollView>
