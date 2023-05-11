@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Week04</string>
+    <string name="display_time">Display Time</string>
+    <string name="display_date">Display Date</string>
 </resources>
